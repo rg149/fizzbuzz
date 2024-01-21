@@ -6,8 +6,8 @@ This is a production-ready Fizz-Buzz REST Server with Gunicorn as the WSGI serve
 ## Project Structure
 The project follows a common Python project layout:
 
-fizzbuzz_server/
-|-- fizzbuzz/
+|-fizzbuzz_server/
+| |-- fizzbuzz/
 | |-- init.py
 | |-- app.py
 | |-- wsgi.py
