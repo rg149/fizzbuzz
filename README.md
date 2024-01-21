@@ -47,8 +47,8 @@ python -m unittest discover -s tests
 ```
 
 ### Dependencies
-Flask: Web framework. Being lightweight, Flask web framework has been preferred.
-Gunicorn: WSGI server for making application production ready.
+- Flask: Web framework. Being lightweight, Flask web framework has been preferred.
+- Gunicorn: WSGI server for making application production ready.
 
 ### API Documentation
 
