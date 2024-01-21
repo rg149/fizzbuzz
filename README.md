@@ -31,12 +31,12 @@ The project follows a common Python project layout:
 
 ### Build Docker Image
 ```bash
-docker build -t fizzbuzz-server .
+docker build -t fizzbuzz .
 ```
 
 ### Run Docker File
 ```bash
-docker run -p 8000:8000 fizzbuzz-server
+docker run -p 8000:8000 fizzbuzz
 ```
 
 ### Unit Tests
