@@ -52,5 +52,5 @@ Gunicorn: WSGI server for making application production ready.
 
 ### API Documentation
 
-API Documentation can be referred from the file `API Guide.md` present in this repository
+API Documentation can be found [here](https://github.com/rg149/fizzbuzz/blob/main/API%20Guide.md)
 
